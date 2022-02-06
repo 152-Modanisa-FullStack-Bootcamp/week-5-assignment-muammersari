@@ -5,5 +5,6 @@ import (
 )
 
 func main() {
+
 	fmt.Println("Bootcamp week 5 assignment!")
 }
